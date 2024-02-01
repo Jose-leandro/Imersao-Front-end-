@@ -6,6 +6,8 @@ Este projeto é uma inspiração ao Spotify, um dos gigantes globais no universo
 
 > ### A imagem a seguir
 Ela descrever o primeiro contato que você terá com o projeto.
+![Screenshot 2024-01-30 102411](https://github.com/Jose-leandro/Spotify-Imersao-Front-End/assets/104599482/85543cff-cb91-4f40-a906-7de6cb18fe14)
+
 
 ## *Estado do projeto*
 
@@ -18,7 +20,7 @@ Ela descrever o primeiro contato que você terá com o projeto.
 ## *Hospedagem do projeto*
 
 Para dar vida ao meu projeto, escolhi a poderosa plataforma de hospedagem Vercel, Sinta-se à vontade para explorar cada detalhe e funcionalidade deste projeto clicando neste
-[Link](https://upload-ai-jose-leandro.vercel.app/)
+[Link](https://spotify-imersao-front-end-jose-leandro.vercel.app/)
 
 ## *Tecnologias utilizadas no projeto*
 
