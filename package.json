@@ -4,7 +4,8 @@
   "description": "Este projeto é uma inspiração ao Spotify, um dos gigantes globais no universo do streaming de música. A meta era construir uma página inicial que capturasse a essência vibrante e dinâmica do Spotify. Este desafio foi realizado durante a imersão Front-End da Alura, uma experiência que me permitiu aprofundar e aprimorar minhas habilidades em desenvolvimento web. Durante este período, tive a oportunidade de fortalecer minha compreensão e aplicação prática de HTML, CSS e JavaScript, ferramentas fundamentais na criação de páginas web interativas e atraentes.",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch artists.json --port 3001"
   },
   "author": "José leandro",
   "license": "ISC"
